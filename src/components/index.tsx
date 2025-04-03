@@ -1,5 +1,3 @@
-import "../styles/globals.css";
-
 // Icons
 export * from "./icons";
 
@@ -44,6 +42,7 @@ export * from "./ui/tooltip";
 export * from "./ui/basic-data-table";
 export * from "./ui/data-table";
 export * from "./ui/modal";
+
 // Skeleton
 export * from "./ui/skeleton";
 
